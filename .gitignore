@@ -11,3 +11,8 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+# 本地工作、导出及日志；长期资料有选择地纳入 docs/
+/work/
+/outputs/
+*.log
